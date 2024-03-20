@@ -25,9 +25,3 @@ function displayGifs(gifs) {
         gifContainer.appendChild(img);
     });
 }
-
-
-const dt = '{name1:"Karan",class:"None"}';
-
-let final = JSON.parse(dt);
-console.log(final);
